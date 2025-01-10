@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(90deg, #0000fd 0%, #000000 100%);
+}
+.nav-link {
+  color: aquamarine;
+}
+.navbar-nav .nav-link.active {
+  color: rgb(143, 143, 143);
+}
+.navbar-brand img {
+  width: 35px;
+}
+.navbar-toggler {
+  background-color:rgb(143, 143, 143); 
+}
+.sidebar {
+  color: aquamarine;
+  background: linear-gradient(270deg, #0000fd 0%, #000000 100%);
+}
+footer {
+  text-align: center;
+  color: aquamarine;
+  background: linear-gradient(270deg, #0000fd 0%, #000000 100%);
+}
+.media-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.media-link>img{
+  border-radius: 40px;
+}
+.header.nav-item.img {
+  border-radius: 50%;
+}
